@@ -1,2 +1,2 @@
 # github-sample
-practic
+practice
